@@ -229,7 +229,7 @@ async def _(event):
             if present > ctime and valid:
                 await tbot.send_message(
                     id,
-                    f"**Nightbot:** It's time closing the chat now ...",
+                    f"**Nightbot:** Chat Closed [ Dont Forget To Join @TheBotsWorldChannel ]...",
                 )
                 await tbot(
                     functions.messages.EditChatDefaultBannedRightsRequest(
