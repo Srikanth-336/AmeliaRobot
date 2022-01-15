@@ -84,9 +84,9 @@ buttons = [
             text="➕️ ᴀᴅᴅ 𝑺𝒓𝒊𝒌𝒊 ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Sriki_Ro_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="amelia_"),
+        InlineKeyboardButton(text="𝚊𝚋𝚘𝚞𝚝", callback_data="amelia_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="Oᴡɴᴇʀ", url=f"https://t.me/Srikanth_36"
         ),
     ],
     [
